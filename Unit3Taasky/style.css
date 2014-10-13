@@ -18,12 +18,16 @@ hr {
 }
 
 .alltext {
-		padding-top: 350px;
+	padding-top: 350px;
     	padding-bottom: 25px;
     	padding-left: 150px;
-
 }
 
 #stripes {
 	background: url(images/stripes.png) repeat-x;
+	height:13px;
+	width:100%;
+	position:absolute;
+	left:0;
+	top:0;
 }
