@@ -1,0 +1,29 @@
+body {
+		background: url(images/background.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-color: #535a6a;
+		color: white;
+		font-family: helvetica;
+		font-weight: normal;
+		font-size: 30px;
+}
+
+
+hr {
+		border-color: #FF4500;
+		width: 50px;
+		margin-left: 0;
+
+}
+
+.alltext {
+		padding-top: 350px;
+    	padding-bottom: 25px;
+    	padding-left: 150px;
+
+}
+
+#stripes {
+	background: url(images/stripes.png) repeat-x;
+}
