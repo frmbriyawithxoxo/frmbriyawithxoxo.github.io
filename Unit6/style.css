@@ -1,9 +1,14 @@
+body{
+	font-family: 'Tienne', serif;
+	font-size: 14px;
+}
 h1{
 	text-align: center;
 	font-size: 3.5em;
 }
 
 a {
+	color:#000;
 	text-decoration: none;
 }
 
@@ -12,12 +17,6 @@ a:visited {color:black;
 
 a:hover {color:#669CB7;
 
-}
-
-
-body{
-	font-family: 'Tienne', serif;
-	font-size: 14px;
 }
 
 img{
